@@ -1,0 +1,11 @@
+ru\yandex\praktikum\user\User.class
+ru\yandex\praktikum\user\UserAPI.class
+ru\yandex\praktikum\user\UserCredentials.class
+ru\yandex\praktikum\order\Order.class
+ru\yandex\praktikum\service\Service.class
+ru\yandex\praktikum\order\Ingredient.class
+ru\yandex\praktikum\order\OrderGenerator.class
+ru\yandex\praktikum\user\UserGenerator.class
+ru\yandex\praktikum\order\OrderAPI.class
+ru\yandex\praktikum\service\AuthResponse.class
+ru\yandex\praktikum\service\IngredientsResponse.class
